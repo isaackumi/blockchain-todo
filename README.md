@@ -11,7 +11,7 @@
 #### Install Truffle Globally using npm
 
 ```bash
-$ npm install -g truffle@^5.0.2
+ npm install -g truffle@^5.0.2
 
 ```
 
@@ -19,28 +19,28 @@ $ npm install -g truffle@^5.0.2
 
 ```bash
 
-$ mkdir eth-todo-app
-$ cd eth-todo-app
+ mkdir eth-todo-app
+ cd eth-todo-app
 
 
 ```
 
 #### Initialize Project
 ```bash
-$ truffle init
+ truffle init
 ```
 
 #### Compile Contracts
 ```bash
-$ truffle compile
+ truffle compile
 ```
 
 #### Migrate contracts
 ```bash
-$ truffle migrate
+truffle migrate
 ```
 
 #### Run the console
 ```bash
-$ truffle console
+ truffle console
 ```
